@@ -1,3 +1,5 @@
+package edu.lucas.primeirasemana;
+
 public class BoletimEscolar {
     public static void main(String[] args) {
         int mediafinal = 10;
